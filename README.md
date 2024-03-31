@@ -242,6 +242,13 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+### Block size 512
+![](512.png)
+### Block size 256
 ![](ex1.png)
+### Block size 1024
+![](1024.png)
+### Block size 1023
+![](1023.png)
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
